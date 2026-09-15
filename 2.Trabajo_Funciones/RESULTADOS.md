@@ -76,4 +76,14 @@ Resultado:
 
 HOLA MUNDO
 
+## Ejercicio 08 - Identificación del tipo de dato
+
+Dato ingresado:
+
+hola
+
+Resultado:
+
+string
+
 
