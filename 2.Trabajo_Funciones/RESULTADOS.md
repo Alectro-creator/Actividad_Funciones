@@ -50,3 +50,20 @@ Resultado:
 
 50 por hora
 
+## Ejercicio 06 - Cálculo del IMC
+
+### Prueba 1
+
+Altura ingresada:
+
+1.70 metros
+
+Peso ingresado:
+
+70 kilogramos
+
+Resultado:
+
+IMC = 24.22
+
+
