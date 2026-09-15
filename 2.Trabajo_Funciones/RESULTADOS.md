@@ -30,3 +30,13 @@ Resultado:
 
 ¡Que tengas un buen día!
 
+## Ejercicio 04 - Cálculo de la edad de los perros
+
+Dato ingresado:
+
+5 años humanos
+
+Resultado:
+
+35 años de perro
+
