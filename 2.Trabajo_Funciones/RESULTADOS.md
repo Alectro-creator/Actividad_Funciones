@@ -66,4 +66,14 @@ Resultado:
 
 IMC = 24.22
 
+## Ejercicio 07 - Conversión de texto a mayúsculas
+
+Dato ingresado:
+
+hola mundo
+
+Resultado:
+
+HOLA MUNDO
+
 
