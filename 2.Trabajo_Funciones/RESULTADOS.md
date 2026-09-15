@@ -40,3 +40,13 @@ Resultado:
 
 35 años de perro
 
+## Ejercicio 05 - Cálculo del valor de la hora de trabajo
+
+Dato ingresado:
+
+Sueldo mensual: 2000
+
+Resultado:
+
+50 por hora
+
