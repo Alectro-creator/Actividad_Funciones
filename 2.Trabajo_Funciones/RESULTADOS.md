@@ -20,3 +20,13 @@ Resultado:
 
 http://www.pepito.com
 
+## Ejercicio 03 - Agregar admiración a una frase
+
+Dato ingresado:
+
+Que tengas un buen día
+
+Resultado:
+
+¡Que tengas un buen día!
+
