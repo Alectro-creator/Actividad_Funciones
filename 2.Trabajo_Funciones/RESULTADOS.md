@@ -86,4 +86,14 @@ Resultado:
 
 string
 
+## Ejercicio 09 - Cálculo de la circunferencia
+
+Dato ingresado:
+
+Radio = 5
+
+Resultado:
+
+31.42
+
 
