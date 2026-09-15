@@ -66,6 +66,20 @@ Resultado:
 
 IMC = 24.22
 
+### Prueba 2
+
+Altura ingresada:
+
+1.80 metros
+
+Peso ingresado:
+
+81 kilogramos
+
+Resultado:
+
+IMC = 25.00
+
 ## Ejercicio 07 - Conversión de texto a mayúsculas
 
 Dato ingresado:
@@ -95,5 +109,21 @@ Radio = 5
 Resultado:
 
 31.42
+
+## Actividad adicional - Función expresada y función flecha
+
+Función seleccionada:
+
+Conversión de pulgadas a centímetros.
+
+Dato ingresado:
+
+10 pulgadas
+
+Resultados:
+
+Función expresada: 25.4 centímetros
+
+Función flecha: 25.4 centímetros
 
 
