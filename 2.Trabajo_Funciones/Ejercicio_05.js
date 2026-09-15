@@ -1,6 +1,3 @@
-// Función Expresada
-// Función Flecha
-
 const prompt = require("prompt-sync")();
 
 function calcularValorHora(sueldoMensual) {
