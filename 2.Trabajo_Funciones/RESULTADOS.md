@@ -10,7 +10,7 @@ Resultado:
 
 25.4 centímetros
 
-**## Ejercicio 02 - Conversión de un string a URL
+## Ejercicio 02 - Conversión de una cadena a URL
 
 Dato ingresado:
 
@@ -18,5 +18,5 @@ pepito
 
 Resultado:
 
-http://www.pepito.com**
+http://www.pepito.com
 
